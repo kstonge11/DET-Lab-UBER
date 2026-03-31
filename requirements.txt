@@ -1,0 +1,6 @@
+PyQt6
+pandas
+pyqtdarktheme
+openpyxl
+pywin32; sys_platform == 'win32'
+pyinstaller>=6.0
