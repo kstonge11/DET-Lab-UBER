@@ -3,7 +3,7 @@ Constants and configuration for DET UBER Cover/Entry Tool
 """
 
 APP_NAME = "DET UBER Cover/Entry Tool"
-APP_VERSION = "1.0.4"
+APP_VERSION = "1.0.5"
 WINDOW_TITLE = f"{APP_NAME} V.{APP_VERSION}"
 
 # Default printer list
